@@ -26,7 +26,7 @@ This project analyzes Airbnb listing data to compare the Columbus, Ohio and New 
 | 5 | What city has a higher average occupancy (nights booked versus nights available)? | city, availability_365 | listings.csv (NYC, Columbus) | Structured |
 
 ## Data Overview
-- **Columbus, Ohio:** 2877 listings (as of Sept 26, 2025) 
+- **Columbus, Ohio:** 2877 listings (as of Sept 26, 2025)
 - **New York City:** 36261 listings (as of Dec 4, 2025)
 - **Primary data source:** [Inside Airbnb](http://insideairbnb.com/get-the-data)
 
